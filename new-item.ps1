@@ -1,0 +1,1 @@
+New-Item -Path . -Name "coffee.txt" -ItemType "file" -Value "Blonde Roast"
