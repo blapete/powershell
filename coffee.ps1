@@ -1,0 +1,1 @@
+1..50 | ForEach-Object { Add-Content -Path .\content.txt -Value "$_ coffees" }

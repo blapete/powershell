@@ -1,0 +1,16 @@
+Get-alias echo
+Get-alias curl
+Get-alias cd
+Get-alias Write
+Get-alias sl
+Get-alias shcm
+Get-alias rmdir
+Get-alias rni
+Get-alias rvpa
+Get-alias ni
+Get-alias gv
+Get-alias gtz
+Get-alias history
+Get-alias cat
+Get-alias clhy
+Get-alias clv
